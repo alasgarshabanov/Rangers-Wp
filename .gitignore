@@ -21,3 +21,8 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+.history/
+.idea/
+.vs-code
+.code-workspace
+wp-config.php
